@@ -1,0 +1,58 @@
+[
+    {
+        "sr_no": 1,
+        "game_name": "Chess",
+        "result": "P2 WON",
+        "moves": 30,
+        "rating": 1875
+    },
+    {
+        "sr_no": 2,
+        "game_name": "Chess",
+        "result": "P1 WON",
+        "moves": 33,
+        "rating": 1805
+    },
+    {
+        "sr_no": 3,
+        "game_name": "Chess",
+        "result": "DRAW",
+        "moves": 26,
+        "rating": 1126
+    },
+    {
+        "sr_no": 4,
+        "game_name": "Chess",
+        "result": "P2 WON",
+        "moves": 23,
+        "rating": 1666
+    },
+    {
+        "sr_no": 5,
+        "game_name": "Chess",
+        "result": "P1 WON",
+        "moves": 44,
+        "rating": 1128
+    },
+    {
+        "sr_no": 6,
+        "game_name": "Chess",
+        "result": "P1 WON",
+        "moves": 25,
+        "rating": 1980
+    },
+    {
+        "sr_no": 7,
+        "game_name": "Chess",
+        "result": "P1 WON",
+        "moves": 40,
+        "rating": 991
+    },
+    {
+        "sr_no": 8,
+        "game_name": "Chess",
+        "result": "DRAW",
+        "moves": 28,
+        "rating": 942
+    }
+]

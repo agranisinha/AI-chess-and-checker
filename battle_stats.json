@@ -1,0 +1,12 @@
+{
+  "chess": {
+    "white_wins": 0,
+    "black_wins": 0,
+    "draws": 2
+  },
+  "checkers": {
+    "white_wins": 0,
+    "black_wins": 0,
+    "draws": 1
+  }
+}
